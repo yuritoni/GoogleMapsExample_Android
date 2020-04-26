@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapsApp</string>
+    <string name="search">Cari</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
