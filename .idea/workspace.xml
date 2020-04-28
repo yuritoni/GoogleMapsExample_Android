@@ -41,9 +41,10 @@
   <component name="ProjectId" id="1b0edRmfj9OuKMTN9F12fhktDyf" />
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="D:/android-sdk" />
-    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GooglePlacesAutoCompleteTutorial-master" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
