@@ -21,12 +21,22 @@
         -->
         <activity
             android:name=".MapsActivity"
-            android:label="@string/title_activity_maps">
+            android:label="@string/title_activity_maps"
+
+            android:theme="@style/PlacesAutocompleteThemeOverlay">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".PlaceAutocompleteAdapter"
+            android:label="@string/title_activity_maps">
+        </activity>
+        <activity
+            android:name=".CustomInfoWindowAdapter"
+            android:label="@string/title_activity_maps">
         </activity>
 
         <meta-data
